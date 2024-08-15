@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nahom</h1>
+<h1 align="center">Greetings 👋, I am Nahom.</h1>
 <h3 align="center">An impassioned developer hailing from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahom-d54&label=Profile%20views&color=0e75b6&style=flat" alt="nahom-d54" /> </p>
